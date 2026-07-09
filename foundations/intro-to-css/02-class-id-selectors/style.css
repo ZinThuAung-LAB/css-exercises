@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  background-color: hsl(350, 100%, 88%);
+}
+
+#No-2 {
+  font-size: 32px;
+  color: blue;
+}
+
+.bold {
+  font-size: 24px;
+}
+
+#No-4 {
+  background-color: lightgreen;
+  font-weight: bold;
+  font-size: 24px;
+}
